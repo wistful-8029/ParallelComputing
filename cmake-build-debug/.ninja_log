@@ -1,0 +1,14 @@
+# ninja log v5
+0	9	0	clean	7c15cbf3ef6f3aa9
+2	1212	6995960317557638	CMakeFiles/ParallelComputing.dir/main.cpp.obj	99cf24a55f446731
+1212	1302	6995960318439608	ParallelComputing.exe	9ac9719a63a83098
+2	1617	6995961285998747	CMakeFiles/ParallelComputing.dir/main.cpp.obj	99cf24a55f446731
+1618	1730	6995961287098280	ParallelComputing.exe	9ac9719a63a83098
+2	1174	6995961716995915	CMakeFiles/ParallelComputing.dir/main.cpp.obj	99cf24a55f446731
+1174	1265	6995961717863955	ParallelComputing.exe	9ac9719a63a83098
+2	1708	6995962354934250	CMakeFiles/ParallelComputing.dir/main.cpp.obj	99cf24a55f446731
+1709	1859	6995962356359736	ParallelComputing.exe	9ac9719a63a83098
+2	1731	6995963740819132	CMakeFiles/ParallelComputing.dir/main.cpp.obj	99cf24a55f446731
+1731	1891	6995963742415531	ParallelComputing.exe	9ac9719a63a83098
+3	3104	6996171951896434	CMakeFiles/ParallelComputing.dir/main.cpp.obj	99cf24a55f446731
+3104	3406	6996171954880948	ParallelComputing.exe	9ac9719a63a83098

@@ -1,0 +1,14 @@
+"D:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\CLionProjects\ParallelComputing -B D:\CLionProjects\ParallelComputing\cmake-build-debug
+-- Found OpenMP_C: -fopenmp (found version "4.5") 
+-- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+-- Found OpenMP: TRUE (found version "4.5")  
+OPENMP FOUND
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV: D:/opencv/minGW-build/install (found version "4.7.0") 
+-- Found OpenCV 4.7.0 in D:/opencv/minGW-build/install/x64/mingw/lib
+-- You might need to add D:\opencv\minGW-build\install\x64\mingw\bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CLionProjects/ParallelComputing/cmake-build-debug
